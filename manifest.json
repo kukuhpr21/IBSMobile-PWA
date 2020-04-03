@@ -1,0 +1,19 @@
+{
+    "name" : "LKDK Mobile",
+    "short_name" : "LKDKMobile",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#FFE9D2",
+    "theme_color" : "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "http://localhost/IBSMobile-PWA/img/logo.png",
+          "type": "image/png",
+          "sizes": "906x906"
+        }
+    ],
+    "permissions" : [
+        "https://www.google.com/"
+    ]
+}
